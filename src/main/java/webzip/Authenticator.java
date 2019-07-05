@@ -1,6 +1,3 @@
-/*
- * https://www.javacodegeeks.com/2014/10/java-ee-7-jax-rs-2-0-simple-rest-api-authentication-authorization-with-custom-http-header.html
- */
 package webzip;
 
 import java.io.BufferedReader;

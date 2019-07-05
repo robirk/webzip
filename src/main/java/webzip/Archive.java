@@ -1,6 +1,3 @@
-/*
- * https://www.baeldung.com/java-compress-and-uncompress
- */
 package webzip;
 
 import java.io.BufferedOutputStream;
@@ -12,8 +9,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
-import java.nio.charset.StandardCharsets;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;

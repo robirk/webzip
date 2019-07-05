@@ -1,6 +1,3 @@
-/*
- * https://cassiomolin.com/2014/11/06/token-based-authentication-with-jaxrs-20/
- */
 package webzip;
 
 import java.io.IOException;

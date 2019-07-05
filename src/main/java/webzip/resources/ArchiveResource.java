@@ -1,9 +1,3 @@
-/*
- * https://www.javacodegeeks.com/2018/04/jax-rs-tutorial-with-jersey-for-restful-web-services.html
- * https://www.logicbig.com/tutorials/java-ee-tutorial/jax-rs/servlet-resources.html
- * http://tobias.blickle.online/using-tomcat-java-rest-server
- * http://www.mastertheboss.com/jboss-frameworks/resteasy/using-rest-services-to-manage-download-and-upload-of-files
- */
 package webzip.resources;
 
 import java.io.File;
